@@ -1,0 +1,99 @@
+#text {
+  position: absolute;
+  top: 245px;
+  left: 158px;
+  font-size: 108px;
+  font-family: lalezar;
+  color: #66FCF1;
+  text-shadow:
+  0 0 151px #66FCF1;
+  
+}
+
+#text2 {
+  position: absolute;
+  top: 430px;
+  left: 151px;
+  font-size: 57.25px;
+  font-family: lalezar;
+  color: #C5C6C7;
+
+}
+
+#telo {
+  position: fixed;
+  background-image: url(./public/telo.jpg);
+  width: 1920px;
+  height: 1080px;
+}
+#telo2 {
+  background-color: #0B0C10;
+  width: 1920px;
+  height: 1080px;
+}
+
+#scroll {
+  scroll-behavior: smooth;
+}
+
+#text3 {
+  position: absolute;
+  top: 1300px;
+  left: 752px;
+  font-size: 100.57px;
+  font-family: lalezar;
+  color: #66FCF1;
+  text-shadow:
+  0 0 151px #66FCF1;
+  
+}
+
+#text4 {
+  position: absolute;
+  top: 1500px;
+  left: 476px;
+  font-size: 57.25px;
+  font-family: lalezar;
+  color: #C5C6C7;
+
+}
+
+#hh1 {
+  height: 1080px;
+  width: 1920;
+}
+
+#hh2 {
+  height: 1080px;
+  width: 1920;
+}
+#d2 {
+  position: relative;
+  top: 900px;
+  left: 600px;
+  width: 673px; 
+  height: 142px;
+  background: #111111;
+  border-radius: 268px;
+  border-style: ridge;
+  border-color: #C5C6C7;
+  border-width: 1px;
+
+  }
+
+  #text5 {
+    position: absolute;
+    top: 2025px;
+    left: 820px;
+    font-size: 40.8px;
+    font-family: lalezar;
+    color: #C5C6C7;
+  
+  }
+
+@font-face {
+  font-family: 'Lalezar';
+  src: local('Lalezar'), url(./public/Lalezar-Regular.ttf) format('woff');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
